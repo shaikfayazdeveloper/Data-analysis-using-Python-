@@ -7,6 +7,7 @@ Understanding the Data
 Python Packages for Data Science
 Importing and Exporting Data in Python
 Getting Started Analyzing Data in Python
+
 Module 2 :
 Data Wrangling
 Pre-processing Data in Python
@@ -23,6 +24,7 @@ GroupBy in Python
 Analysis of Variance ANOVA
 Correlation
 Statistics
+
 Module 4 :
 Model Development
 Linear Regression and Multiple Linear Regression
@@ -30,7 +32,7 @@ Model Evaluation Using Visualization
 Polynomial Regression and Pipelines
 Measures for In-Sample Evaluation
 Prediction and Decision Making
-Module 5 
+Module 5 :
 Working with Data in Python
 Model Evaluation and Refinement   
 Overfitting, Underfitting and Model Selection 
