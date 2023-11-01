@@ -32,6 +32,7 @@ Model Evaluation Using Visualization
 Polynomial Regression and Pipelines
 Measures for In-Sample Evaluation
 Prediction and Decision Making
+
 Module 5 :
 Working with Data in Python
 Model Evaluation and Refinement   
